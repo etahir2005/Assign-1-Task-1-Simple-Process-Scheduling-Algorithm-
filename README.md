@@ -21,3 +21,6 @@ Circular Linked List Management: One of the challenges faced while implementing 
 Dynamic Process Management: Managing the arrival of new processes in the middle of the scheduling and inclusion of the processes into the circular linked list with no interferences.
 Edge Cases: Making sure that the scheduler responds appropriately in the case when there is only the first process, when the list of processes is empty, or when multiple processes complete in a single cycle.
 Remaining Time Calculation: Precisely controlling the remaining time count, possibly with negative values or incorrect behaviour when the remaining time is less than the CPU time.
+
+**Screenshot of Output:**
+![Screenshot (900)](https://github.com/user-attachments/assets/54040143-7329-4073-9100-c9671c744952) 
