@@ -23,4 +23,5 @@ Edge Cases: Making sure that the scheduler responds appropriately in the case wh
 Remaining Time Calculation: Precisely controlling the remaining time count, possibly with negative values or incorrect behaviour when the remaining time is less than the CPU time.
 
 **Screenshot of Output:**
-![Screenshot (900)](https://github.com/user-attachments/assets/54040143-7329-4073-9100-c9671c744952) 
+![Screenshot (900)](https://github.com/user-attachments/assets/61af69c7-520d-4aed-9fd0-44e2149a3e8e)
+ 
